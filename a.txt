@@ -12,3 +12,4 @@ dev update 02
 888
 liss fix the bug
 local server update
+github server update
